@@ -1,0 +1,11 @@
+analyzer:
+  errors:
+    constant_identifier_names: ignore
+    deprecated_member_use: ignore
+    empty_constructor_bodies: ignore
+    file_names: ignore
+    must_be_immutable: ignore
+    override_on_non_overriding_member: ignore
+    unused_field: ignore
+    use_build_context_synchronously: ignore
+include: package:flutter_lints/flutter.yaml
