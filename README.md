@@ -1,9 +1,9 @@
 # Coffee App
 
-Simple basic Coffee app designed in flutter. App design is based on [CoffeeApp](https://www.figma.com/community/file/1328448248372679805/coffee-shop-app) designed by [imajidesigns](https://www.instagram.com/denno_dnx)
+Simple basic Coffee app designed in flutter. App design is based on [CoffeeApp](https://www.figma.com/community/file/1116625179283253250) designed by [imajidesigns](https://www.instagram.com/denno_dnx)
 
 
-![image 4](https://github.com/erfanbanaei/Flutter_Coffee_Ui/assets/75321483/41d3f907-3211-4a36-88d5-79ebdd75d770)
+<img width="2472" height="1872" alt="Mockup" src="https://github.com/user-attachments/assets/e4489d93-fcd6-464b-9849-64212a5e2a09" />
 
 
 
